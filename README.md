@@ -25,7 +25,5 @@
          3. 소속 : Affiliation
          4. 연락처 : Phone
          5. 이메일 : Email
-      2. 추가하기
-         1. 항목 : Title
-         2. 상세 : Detail
+         6. 자기소개 : Introduce
    2. 수정
