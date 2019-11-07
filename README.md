@@ -54,19 +54,6 @@
    - 피드형식으로 다른사람들의 최신순 심플레주메 보기
    - 다른사람의 자세한 레주메 보기
       - 다른사람의 레주메 추천하기
-
-
-
-### 사용 언어 & 사용 프레임워크, 라이브러리
-
-- iOS : Swift & UIColor_Hex_Swift, Alamofire, TextFieldEffects, SwiftyPickerPopover, Kingfisher, Codable, UIKit, 
-- Web-Frontend :
-- Backend : 
-
-
-
-
-
-
-
+      
+      
 문서작성자 : 김다은
